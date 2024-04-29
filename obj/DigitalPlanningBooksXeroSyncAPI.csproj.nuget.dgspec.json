@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/markunderwood/Repos/Development/Repos/DigitalPlanningBooksXeroSyncAPI/DigitalPlanningBooksXeroSyncAPI.csproj": {}
+    "/Users/James/Documents/Coding Repo/DigitalPlanningBooksXeroSyncAPI/DigitalPlanningBooksXeroSyncAPI.csproj": {}
   },
   "projects": {
-    "/Users/markunderwood/Repos/Development/Repos/DigitalPlanningBooksXeroSyncAPI/DigitalPlanningBooksXeroSyncAPI.csproj": {
+    "/Users/James/Documents/Coding Repo/DigitalPlanningBooksXeroSyncAPI/DigitalPlanningBooksXeroSyncAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/markunderwood/Repos/Development/Repos/DigitalPlanningBooksXeroSyncAPI/DigitalPlanningBooksXeroSyncAPI.csproj",
+        "projectUniqueName": "/Users/James/Documents/Coding Repo/DigitalPlanningBooksXeroSyncAPI/DigitalPlanningBooksXeroSyncAPI.csproj",
         "projectName": "DigitalPlanningBooksXeroSyncAPI",
-        "projectPath": "/Users/markunderwood/Repos/Development/Repos/DigitalPlanningBooksXeroSyncAPI/DigitalPlanningBooksXeroSyncAPI.csproj",
-        "packagesPath": "/Users/markunderwood/.nuget/packages/",
-        "outputPath": "/Users/markunderwood/Repos/Development/Repos/DigitalPlanningBooksXeroSyncAPI/obj/",
+        "projectPath": "/Users/James/Documents/Coding Repo/DigitalPlanningBooksXeroSyncAPI/DigitalPlanningBooksXeroSyncAPI.csproj",
+        "packagesPath": "/Users/James/.nuget/packages/",
+        "outputPath": "/Users/James/Documents/Coding Repo/DigitalPlanningBooksXeroSyncAPI/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/markunderwood/.nuget/NuGet/NuGet.Config"
+          "/Users/James/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -35,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

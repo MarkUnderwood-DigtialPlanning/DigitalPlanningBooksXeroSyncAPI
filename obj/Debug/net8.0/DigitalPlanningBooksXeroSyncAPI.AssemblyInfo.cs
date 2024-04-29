@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalPlanningBooksXeroSyncAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8895a109c5129487f03c645731f9b89ef975cbb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalPlanningBooksXeroSyncAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalPlanningBooksXeroSyncAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
